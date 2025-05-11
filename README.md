@@ -19,12 +19,8 @@ Program to implement the prediction of iris species using SGD Classifier.
 Developed by: Vishal S
 RegisterNumber: 212224040364  
 */
-```
-```
-#ML 4
 
-
-mport numpy as np
+import numpy as np
 import pandas as pd
 from sklearn.datasets import fetch_california_housing
 from sklearn.linear_model import SGDRegressor
